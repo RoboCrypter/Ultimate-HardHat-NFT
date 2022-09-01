@@ -1,5 +1,9 @@
-1. Basic NFT.
+We created 3 different kinds of NFTs :
 
-2. Random IPFS NFT.
+1. A Basic NFT.
 
-3. Dynamic SVG NFT.
+2. IPFS Hosted NFT.
+  i. That uses Randomness to generate a unique NFT.
+
+3. SVG NFT (Hosted 100% on-chain).
+  i. Uses price feeds to be dynamic.
